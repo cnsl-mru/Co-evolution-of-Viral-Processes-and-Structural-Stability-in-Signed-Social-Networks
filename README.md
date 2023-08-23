@@ -1,5 +1,5 @@
 **Acknowledgement:** 
-*Temirlan Kalimzhanov, Amir Haji A. Khamseh’i, Aresh Dadlani, Muthurishnan S. Kumar, Ahmad Khonsari, "IEEE Transactions on Knowledge and Data Engineering, vol. 35, no. 8, pp. 7809-7814, August 2023.* ([DOI](https://doi.org/10.1109/TKDE.2022.3207123))
+*Temirlan Kalimzhanov, Amir Haji A. Khamseh’i, Aresh Dadlani, Muthurishnan S. Kumar, Ahmad Khonsari, "Co-Evolution of Viral Processes and Structural Stability in Signed Social Networks," IEEE Transactions on Knowledge and Data Engineering, vol. 35, no. 8, pp. 7809-7814, August 2023.* ([DOI](https://doi.org/10.1109/TKDE.2022.3207123))
 
 **You can also find the paper on arXiv ([link](https://doi.org/10.48550/arXiv.2107.13437)).**
 
